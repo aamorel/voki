@@ -44,7 +44,7 @@ expo start
 ### ML Backend
 
 ```shell
-pip install /r requirements.txt
+pip install -r requirements.txt
 python main.py
 ngrok http 4030
 ```
