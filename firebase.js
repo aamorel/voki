@@ -1,6 +1,7 @@
 import * as firebase from 'firebase';
 import 'firebase/firestore';
 import 'firebase/auth';
+import your_config from 'firebaseConfig.js';
 
 const firebaseConfig = your_config;
 
