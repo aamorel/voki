@@ -31,6 +31,11 @@ const firebaseConfig = {
 };
 ```
 
+Add Azure speech key in [back/main.py](back/main.py):
+```
+speech_key = 'your-key'
+```
+
 ## Running
 
 Use a terminal in the `root` dir of the repo.
