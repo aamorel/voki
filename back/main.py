@@ -1,8 +1,7 @@
-speech_key = 'd5da5b312758448ba1c1b07121f3434c'
+speech_key = 'your-key'
 service_region = 'switzerlandnorth'
 from dataclasses import dataclass
 import json
-
 from flask import request, jsonify, Flask
 from flask_cors import CORS
 from pyngrok import ngrok
